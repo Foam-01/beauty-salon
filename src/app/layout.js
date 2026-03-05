@@ -14,11 +14,10 @@ export const metadata = {
   authors: [{ name: "Gloy Hair Salon" }],
   viewport: "width=device-width, initial-scale=1",
   
-  // ส่วนการยืนยันตัวตนกับ Google Search Console (ห้ามลบ)
+   // การยืนยันตัวตนกับ Google Search Console (ใช้วิธี HTML Tag)
   verification: {
     google: "a4ce982d0c3bf7bd", 
   },
-
   // ข้อมูลสำหรับเวลาแชร์ลิงก์ลง Facebook / Line จะมีรูปและข้อความสวยๆ
   openGraph: {
     title: "Gloy Hair Salon & Makeup | กำแพงเพชร",
