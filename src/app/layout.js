@@ -14,9 +14,9 @@ export const metadata = {
   authors: [{ name: "Gloy Hair Salon" }],
   viewport: "width=device-width, initial-scale=1",
   
-   // การยืนยันตัวตนกับ Google Search Console (ใช้วิธี HTML Tag)
+   // การยืนยันตัวตนกับ Google Search Console ชุดใหม่
   verification: {
-    google: "a4ce982d0c3bf7bd", 
+    google: "S6pyFw2_7Rji5SlmkvRFEsCm3rzVbhoD1i_wFPxted4", 
   },
   // ข้อมูลสำหรับเวลาแชร์ลิงก์ลง Facebook / Line จะมีรูปและข้อความสวยๆ
   openGraph: {
